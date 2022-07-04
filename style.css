@@ -1,0 +1,29 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    margin: 0%;
+}
+.you{
+    color: yellow;
+}
+section{
+    display: flex;
+}
+.hafe{
+   width: 50%;
+    padding: 10%;
+}
+.hafe img{
+    width: 80%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 2% 8%;
+    color: gray;
+    font-weight: 700%;
+    border-radius: 10%;
+}
+.bennar{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
